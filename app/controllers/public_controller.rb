@@ -1,4 +1,5 @@
 class PublicController < ApplicationController
-  def homepage
+  def home
+    # render html: "Boo ya!"
   end
 end
